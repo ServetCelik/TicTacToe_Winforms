@@ -1,0 +1,20 @@
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\bin\Debug\TTT winforms.exe.config
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\bin\Debug\TTT winforms.exe
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\bin\Debug\TTT winforms.pdb
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT winforms.csproj.AssemblyReference.cache
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT_winforms.Form1.resources
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT_winforms.Properties.Resources.resources
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT winforms.csproj.GenerateResource.cache
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT winforms.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT winforms.exe
+C:\Users\srvtc\source\repos\TTT winforms\TTT winforms\obj\Debug\TTT winforms.pdb
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\bin\Debug\TTT winforms.exe.config
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\bin\Debug\TTT winforms.exe
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\bin\Debug\TTT winforms.pdb
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT winforms.csproj.AssemblyReference.cache
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT_winforms.Form1.resources
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT_winforms.Properties.Resources.resources
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT winforms.csproj.GenerateResource.cache
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT winforms.csproj.CoreCompileInputs.cache
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT winforms.exe
+C:\Users\srvtc\Desktop\ttt\TicTacToe_Winforms\TTT winforms\obj\Debug\TTT winforms.pdb
